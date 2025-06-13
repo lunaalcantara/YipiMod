@@ -1,0 +1,8 @@
+{
+  "TBH_creature": {
+    "subtitle": "sound.yipi-mod.TBH_creature",
+    "sounds": [
+      "yipi-mod:TBH_creature"
+    ]
+  }
+}
