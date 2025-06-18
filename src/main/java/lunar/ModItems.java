@@ -28,6 +28,6 @@ public class ModItems {
                 .register((itemGroup) -> itemGroup.add(ModItems.TBH_CREATURE));
     }
 
-    public static final Item TBH_CREATURE = register("TBH_creature", Item::new, new Item.Settings());
+    public static final Item TBH_CREATURE = register("tbh_creature", Item::new, new Item.Settings());
 
 }
